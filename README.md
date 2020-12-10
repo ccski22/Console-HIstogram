@@ -14,12 +14,3 @@ Input will be fed through standard in. Each item that provided will be separated
   2. Each data point (space separated again). 
   3. The word "end"
   
-```
-
-![Histogram image](https://raw.githubusercontent.com/cgburgess/histogram-java/master/data/7_bins_sample_data.png?token=ACEV5YSRFU3RPDPCKWOH4526FEFIU)
-
-## Output
-
-Program creates histogram by printing ASCII characters to the console one line at a time. 
-```
-
